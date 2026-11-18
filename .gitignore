@@ -1,0 +1,3 @@
+# Arquivos gerados: nao entram no repositorio
+__pycache__/
+*.pyc
