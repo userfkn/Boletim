@@ -5,4 +5,4 @@ def media(n1, n2):
     Ex.: media(70, 50) -> 60.0
     """
     # complete aqui: troque o return 0 pelo calculo
-    return 0
+    return (n1 + n2) / 2
